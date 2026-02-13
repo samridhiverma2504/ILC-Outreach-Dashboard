@@ -11,3 +11,31 @@
     * Link to email generator for emailing instructors
   * Add completed events
     * Tracks number of interactions across all events
+
+**Email Generator**
+  * Generate email to ask instructors if they would like us to present in their class
+  * Generate email to place catering orders
+
+**Meeting Notes and Agendas**
+  * Place to add, edit, delete meeting notes/agendas
+
+**Inventory Tracker**
+  * Add, edit, delete items in the inventory list
+  * Flags items as low stock if quantity is less than 20
+
+## To get Started
+**Clone the Repository**
+```bash
+git clone https://github.com/samridhiverma2504/ILC-Outreach-Dashboard
+cd ILC-Outreach_dashboard
+```
+**Install Dependencies**
+```bash
+npm install
+```
+**Start the Development Server**
+```bash
+npm run dev
+```
+**Open Browser**
+  * App runs at `http://localhost:3000`
