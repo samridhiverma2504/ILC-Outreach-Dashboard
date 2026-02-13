@@ -15,7 +15,7 @@
     * Tracks number of interactions across all events
 
 **Email Generator**
-  * Generate emails to ask instructors if they would like us to present in their class
+  * Generate emails to ask instructors if they would like the ILC to present in their class
   * Generate emails to place catering orders
 
 **Meeting Notes and Agendas**
