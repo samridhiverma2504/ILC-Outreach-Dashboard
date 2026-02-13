@@ -25,7 +25,7 @@
   * Add, edit, delete items in the inventory list
   * Flags items as low stock if quantity is less than 20
 
-## To get Started
+## Getting Started
 **Clone the Repository**
 ```bash
 git clone https://github.com/samridhiverma2504/ILC-Outreach-Dashboard
