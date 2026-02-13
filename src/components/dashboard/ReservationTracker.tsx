@@ -429,7 +429,7 @@ export function ReservationTracker({ onNavigateToEmailGenerator }) {
     <div className="space-y-6">
       <div className="flex justify-between items-center">
         <div>
-          <h2 className="text-2xl font-bold tracking-tight">Event & Reservation Tracker</h2>
+          <h2 className="text-2xl font-bold tracking-tight">Event Tracker</h2>
         </div>
       </div>
 
