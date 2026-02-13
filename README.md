@@ -1,5 +1,7 @@
 
   # Outreach Dashboard
+  
+  A React-based dashboard for managing outreach activities at the Illinois Leadership Center.
 
 ## Features
 **Event Tracker**
@@ -17,7 +19,7 @@
   * Generate email to place catering orders
 
 **Meeting Notes and Agendas**
-  * Place to add, edit, delete meeting notes/agendas
+  * Add, edit, delete meeting notes/agendas
 
 **Inventory Tracker**
   * Add, edit, delete items in the inventory list
