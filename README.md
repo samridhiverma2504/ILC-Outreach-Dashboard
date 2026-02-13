@@ -15,8 +15,8 @@
     * Tracks number of interactions across all events
 
 **Email Generator**
-  * Generate email to ask instructors if they would like us to present in their class
-  * Generate email to place catering orders
+  * Generate emails to ask instructors if they would like us to present in their class
+  * Generate emails to place catering orders
 
 **Meeting Notes and Agendas**
   * Add, edit, delete meeting notes/agendas
