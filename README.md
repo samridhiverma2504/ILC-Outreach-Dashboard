@@ -29,6 +29,8 @@
 **Clone the Repository**
 ```bash
 git clone https://github.com/samridhiverma2504/ILC-Outreach-Dashboard
+```
+```bash
 cd ILC-Outreach_dashboard
 ```
 **Install Dependencies**
