@@ -1,7 +1,7 @@
 
   # Outreach Dashboard
 
-## Features:
+## Features
 **Event Tracker**
   * Add details for tabling events
     * Link to space reservation website
