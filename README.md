@@ -1,8 +1,8 @@
 
   # Outreach Dashboard
 
-<u>Features:</u>
-** Event Tracker **
+## Features:
+**Event Tracker**
   * Add details for tabling events
     * Link to space reservation website
     * Link to email generator to place catering order
