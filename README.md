@@ -31,7 +31,7 @@
 git clone https://github.com/samridhiverma2504/ILC-Outreach-Dashboard
 ```
 ```bash
-cd ILC-Outreach_dashboard
+cd ILC-Outreach-Dashboard
 ```
 **Install Dependencies**
 ```bash
